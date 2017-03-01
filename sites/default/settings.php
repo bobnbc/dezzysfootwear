@@ -249,7 +249,7 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'dezzys',
+      'database' => 'dezzysfootwear',
       'username' => 'root',
       'password' => 'root',
       'host' => 'localhost',
